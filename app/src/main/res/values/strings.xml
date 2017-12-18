@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application2_3</string>
+    <string name="button1_name">first</string>
+    <string name="button2_name">second</string>
+    <string name="button3_name">third</string>
+    <string name="button4_name">list</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_open">open</string>
+    <string-array name="string_array">
+        <item>1000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+        <item>25000</item>
+        <item>50000</item>
+        <item>100000</item>
+    </string-array>
+</resources>
